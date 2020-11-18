@@ -63,7 +63,7 @@ public class RobotInAJar {
 			randy.setSpeed(10);
 			randy.penDown();
 			randy.setRandomPenColor();
-			randy.move(40);
+			randy.move(80);
 			randy.turn(90);
 		}
 		
