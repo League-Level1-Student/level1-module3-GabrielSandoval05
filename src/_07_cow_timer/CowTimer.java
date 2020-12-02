@@ -14,6 +14,11 @@ public class CowTimer {
 	 * 1. Make a constructor for the CowTimer class that initializes the minutes
 	 * variable
 	 */
+	CowTimer (int minutes) {
+		
+	}
+
+	
 
 	/* 4. Complete the main method of the CowTimerRunner class */
 
